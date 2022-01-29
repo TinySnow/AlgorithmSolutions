@@ -1,4 +1,5 @@
 import leetcode.Question1;
+import leetcode.Question3;
 import necessary.ListNode;
 
 import java.util.Arrays;
@@ -12,5 +13,8 @@ public class Run {
 //        int a = 9;
 //        int b = 1999999999;
 //        System.out.println(String.valueOf(a + b));
+
+        String s = new String("abc");
+        System.out.println(Question3.lengthOfLongestSubstring(s));
     }
 }
