@@ -1,4 +1,5 @@
 import leetcode.Question1;
+import leetcode.Question1342;
 import leetcode.Question3;
 import leetcode.Question884;
 import necessary.ListNode;
@@ -18,6 +19,8 @@ public class Run {
 //        String s = new String("abc");
 //        System.out.println(Question3.lengthOfLongestSubstring(s));
 
-        System.out.println(Arrays.toString(Question884.uncommonFromSentences("this apple is sweet", "this apple is sour")));
+//        System.out.println(Arrays.toString(Question884.uncommonFromSentences("this apple is sweet", "this apple is sour")));
+
+        System.out.println(Question1342.numberOfSteps(123));
     }
 }
