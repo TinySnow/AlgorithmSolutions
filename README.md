@@ -1,5 +1,5 @@
-# AlgorithmSolutions
-This repository is used to record my algorithm traveling./这个仓库用来记录微雪的算法之旅。
+# AlgorithmSolutions/算法解决方案
+This repository is used to record my algorithm travel./这个仓库用来记录微雪的算法之旅。
 
 ## Attention/注意
 
