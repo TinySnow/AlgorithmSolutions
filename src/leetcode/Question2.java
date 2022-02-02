@@ -13,34 +13,6 @@ import necessary.ListNode;
  * }
  */
 public class Question2 {
-    //    public ListNode addTwoNumbersFailed(ListNode l1, ListNode l2) {
-//        if (l1.next == null && l2.next == null && l1.val == 0 && l2.val == 0) {
-//            return new ListNode(0);
-//        }
-//        long val1 = 0;
-//        for (int i = 0; l1 != null; i++) {
-//            val1 += l1.val * Math.pow(10, i);
-//            l1 = l1.next;
-//        }
-//        long val2 = 0;
-//        for (int i = 0; l2 != null; i++) {
-//            val2 += l2.val * Math.pow(10, i);
-//            l2 = l2.next;
-//        }
-//        long result = val1 + val2;
-////        System.out.println(val1);
-////        System.out.println(val2);
-////        System.out.println(result);
-//        String s = String.valueOf(result);
-//        System.out.println(s);
-//        ListNode head = null;
-//        for (int i = 0; i < s.length(); i++) {
-//            ListNode listNode = new ListNode(Integer.parseInt(s.substring(i, i + 1)), null);
-//            listNode.next = head;
-//            head = listNode;
-//        }
-//        return head;
-//    }
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         if (l1.next == null && l2.next == null && l1.val == 0 && l2.val == 0) {
             return new ListNode(0);

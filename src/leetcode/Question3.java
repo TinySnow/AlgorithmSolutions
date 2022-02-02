@@ -2,8 +2,12 @@ package leetcode;
 
 import java.util.HashMap;
 
+/**
+ * 根据滑动窗口思想进行算法处理
+ */
 public class Question3 {
     public static int lengthOfLongestSubstring(String s) {
+        // 长度判断，过短可以直接返回
         if (s.length() <= 1) {
             return s.length() == 0 ? 0 : 1;
         }
@@ -30,7 +34,6 @@ public class Question3 {
                 map.put(character, i);
             }
             endIndex = i;
-//            System.out.println(s.substring(startIndex, endIndex));
         }
         return Math.max(endIndex - startIndex + 1, currentMaxLength);
     }
