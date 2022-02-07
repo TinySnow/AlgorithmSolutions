@@ -1,7 +1,4 @@
-import leetcode.Question1;
-import leetcode.Question1342;
-import leetcode.Question3;
-import leetcode.Question884;
+import leetcode.*;
 import necessary.ListNode;
 
 import java.util.Arrays;
@@ -21,6 +18,7 @@ public class Run {
 
 //        System.out.println(Arrays.toString(Question884.uncommonFromSentences("this apple is sweet", "this apple is sour")));
 
-        System.out.println(Question1342.numberOfSteps(123));
+//        System.out.println(Question1342.numberOfSteps(123));
+//        Question1405.longestDiverseString(2,2,1);
     }
 }
