@@ -11,6 +11,7 @@ Some Questions have not solved, cause of its difficulty and time limit(usually o
 
 ## Unfinished Question Record/未完成题目记录
 
+- 1001
 - 1219
 - 1405
 - 1414
