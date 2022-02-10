@@ -20,5 +20,6 @@ public class Run {
 
 //        System.out.println(Question1342.numberOfSteps(123));
 //        Question1405.longestDiverseString(2,2,1);
+        System.out.println(Question1447.simplifiedFractions(98));
     }
 }
