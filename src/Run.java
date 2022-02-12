@@ -21,6 +21,7 @@ public class Run {
 //        System.out.println(Question1342.numberOfSteps(123));
 //        Question1405.longestDiverseString(2,2,1);
 //        System.out.println(Question1447.simplifiedFractions(98));
-        System.out.println(Question1984.minimumDifference(new int[]{8216,18083,81861,92320,30808,4467,36436,7960}, 8));
+//        System.out.println(Question1984.minimumDifference(new int[]{8216,18083,81861,92320,30808,4467,36436,7960}, 8));
+        Question1020.numEnclaves(new int[][]{{0}, {1}, {1}, {0}, {0}});
     }
 }
