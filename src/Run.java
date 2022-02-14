@@ -28,6 +28,8 @@ public class Run {
 
 //        Question1020.numEnclaves(new int[][]{{0}, {1}, {1}, {0}, {0}});
 
-        System.out.println(Question1189.maxNumberOfBalloons("kajfsodivnwoeifalsidhoaweiballonoweooooooooooonsdfnnnnnnnnnnnnnasdihfowudbvadfbbbbbbbbbbbbbbbsdufhwillllllllllllllllllllllnaaaaaaaaaswoeifoaanvosueowllasieowqwpwo"));
+//        System.out.println(Question1189.maxNumberOfBalloons("kajfsodivnwoeifalsidhoaweiballonoweooooooooooonsdfnnnnnnnnnnnnnasdihfowudbvadfbbbbbbbbbbbbbbbsdufhwillllllllllllllllllllllnaaaaaaaaaswoeifoaanvosueowllasieowqwpwo"));
+
+        Question540.singleNonDuplicate(new int[]{1, 1, 2});
     }
 }
