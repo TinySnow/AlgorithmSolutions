@@ -30,6 +30,8 @@ public class Run {
 
 //        System.out.println(Question1189.maxNumberOfBalloons("kajfsodivnwoeifalsidhoaweiballonoweooooooooooonsdfnnnnnnnnnnnnnasdihfowudbvadfbbbbbbbbbbbbbbbsdufhwillllllllllllllllllllllnaaaaaaaaaswoeifoaanvosueowllasieowqwpwo"));
 
-        Question540.singleNonDuplicate(new int[]{1, 1, 2});
+//        Question540.singleNonDuplicate(new int[]{1, 1, 2});
+
+        System.out.println(Question1380.luckyNumbers(new int[][]{{3,7,8},{9,11,13},{15,16,17}}));
     }
 }
