@@ -16,6 +16,7 @@ Some Questions have not solved, cause of its difficulty and time limit(usually o
 - 1219
 - 1405
 - 1414
+- 1719
 - 1763
 - 1984
 
