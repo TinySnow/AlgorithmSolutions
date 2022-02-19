@@ -32,6 +32,8 @@ public class Run {
 
 //        Question540.singleNonDuplicate(new int[]{1, 1, 2});
 
-        System.out.println(Question1380.luckyNumbers(new int[][]{{3,7,8},{9,11,13},{15,16,17}}));
+//        System.out.println(Question1380.luckyNumbers(new int[][]{{3,7,8},{9,11,13},{15,16,17}}));
+
+        System.out.println("Final: " + Question969.pancakeSort(new int[]{3, 2, 4, 1}));
     }
 }
