@@ -13,6 +13,7 @@ Some Questions have not solved, cause of its difficulty and time limit(usually o
 
 - 540
 - 688(dp)
+- 838
 - 1001
 - 1219
 - 1405
