@@ -21,4 +21,5 @@ Some Questions have not solved, cause of its difficulty and time limit(usually o
 - 1719
 - 1763
 - 1984
+- 1994
 
