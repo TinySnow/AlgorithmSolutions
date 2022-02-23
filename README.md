@@ -14,6 +14,7 @@ Some Questions have not solved, cause of its difficulty and time limit(usually o
 - 540
 - 688(dp)
 - 838
+- 917
 - 1001
 - 1219
 - 1405
@@ -21,5 +22,5 @@ Some Questions have not solved, cause of its difficulty and time limit(usually o
 - 1719
 - 1763
 - 1984
-- 1994
+- 1994(dp)
 
