@@ -54,6 +54,10 @@ public class Run {
 //                179, 168, 155, 153, 150, 144, 107, 102, 102, 87,
 //                80, 57, 55, 49, 48, 45, 26, 26, 23, 15}));
 
-        System.out.println(Question6.convert("PAYPALISHIRING", 4));
+//        System.out.println(Question6.convert("PAYPALISHIRING", 4));
+
+        System.out.println(Question258.addDigits(19));
+
+
     }
 }
