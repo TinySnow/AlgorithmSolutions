@@ -56,7 +56,9 @@ public class Run {
 
 //        System.out.println(Question6.convert("PAYPALISHIRING", 4));
 
-        System.out.println(Question258.addDigits(19));
+//        System.out.println(Question258.addDigits(19));
+
+        System.out.println(Question2104.subArrayRanges(new int[]{4,-2,-3,4,1}));
 
 
     }
