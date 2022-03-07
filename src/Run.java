@@ -58,8 +58,9 @@ public class Run {
 
 //        System.out.println(Question258.addDigits(19));
 
-        System.out.println(Question2104.subArrayRanges(new int[]{4,-2,-3,4,1}));
+//        System.out.println(Question2104.subArrayRanges(new int[]{4,-2,-3,4,1}));
 
+        System.out.println(Question504.convertToBase7(100));
 
     }
 }
