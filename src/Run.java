@@ -60,7 +60,8 @@ public class Run {
 
 //        System.out.println(Question2104.subArrayRanges(new int[]{4,-2,-3,4,1}));
 
-        System.out.println(Question504.convertToBase7(100));
+//        System.out.println(Question504.convertToBase7(100));
 
+        System.out.println(Question393.validUtf8(new int[]{248,130,130,130}));
     }
 }
