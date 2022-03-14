@@ -62,6 +62,11 @@ public class Run {
 
 //        System.out.println(Question504.convertToBase7(100));
 
-        System.out.println(Question393.validUtf8(new int[]{248,130,130,130}));
+//        System.out.println(Question393.validUtf8(new int[]{248,130,130,130}));
+
+        System.out.println(Arrays.toString(Question599.findRestaurant(new String[]{"Shogun", "Tapioca Express", "Burger King", "KFC"},
+                new String[]{"Piatti", "The Grill at Torrey Pines", "Hungry Hunter Steakhouse", "Shogun"})));
+
+
     }
 }
