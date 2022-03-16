@@ -13,6 +13,7 @@ Some Questions have not solved, cause of its difficulty and time limit(usually o
 
 ### Leetcode Official Question List/力扣官方题目列表
 
+- 432
 - 540
 - 553
 - 564
