@@ -69,7 +69,9 @@ public class Run {
 
 //        System.out.println(Question728.selfDividingNumbers(3111, 3126));
 
-        System.out.println(Question762.countPrimeSetBits(3, 100));
+//        System.out.println(Question762.countPrimeSetBits(3, 100));
+
+        System.out.println(Question20.isValid("{[]}"));
 
 
     }
