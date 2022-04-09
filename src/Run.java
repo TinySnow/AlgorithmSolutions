@@ -1,7 +1,11 @@
 import leetcode.*;
 import necessary.ListNode;
+import necessary.Node;
 
+import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.LinkedList;
+import java.util.List;
 
 public class Run {
     public static void main(String[] args) {
@@ -71,7 +75,16 @@ public class Run {
 
 //        System.out.println(Question762.countPrimeSetBits(3, 100));
 
-        System.out.println(Question20.isValid("{[]}"));
+//        System.out.println(Question20.isValid("{[]}"));
+
+//        List<Node> list = new ArrayList<>();
+//        list.add(new Node(3));
+//        list.add(new Node(2));
+//        list.add(new Node(4));
+//        Node node = new Node(1,list);
+//        System.out.println(Question429.levelOrder(node));
+
+
 
 
     }
