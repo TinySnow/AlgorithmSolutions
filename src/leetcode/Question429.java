@@ -9,6 +9,7 @@ public class Question429 {
         if (root == null) {
             return new ArrayList<>();
         }
+        PriorityQueue<Integer> integers = new PriorityQueue<>();
         Deque<Node> queue = new ArrayDeque<>();
         List<List<Integer>> result = new ArrayList<>();
         // 添加根节点
