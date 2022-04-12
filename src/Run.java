@@ -84,7 +84,9 @@ public class Run {
 //        Node node = new Node(1,list);
 //        System.out.println(Question429.levelOrder(node));
 
-
+        System.out.println(Arrays.toString(Question806.numberOfLines(
+                new int[]{3,4,10,4,8,7,3,3,4,9,8,2,9,6,2,8,4,9,9,10,2,4,9,10,8,2},
+        "mqblbtpvicqhbrejb")));
 
 
     }
