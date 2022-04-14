@@ -71,6 +71,7 @@ Totally 20 questions./共计 20 题。
 - 1342
 - 1380
 - 1447
+- 1672
 - 1725
 - 1748
 - 2000
@@ -79,4 +80,4 @@ Totally 20 questions./共计 20 题。
 - 2043
 - 2104
 
-Totally 35 questions./共计 35 题。
+Totally 36 questions./共计 36 题。
