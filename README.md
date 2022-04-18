@@ -14,6 +14,7 @@ Some Questions have not solved, cause of its difficulty and time limit(usually o
 ### Leetcode Official Question List/力扣官方题目列表
 
 - 310(dp)
+- 386
 - 432
 - 440
 - 540
@@ -34,7 +35,7 @@ Some Questions have not solved, cause of its difficulty and time limit(usually o
 - 1994(dp)
 - 2044
 
-Totally 20 questions./共计 20 题。
+Totally 21 questions./共计 21 题。
 
 ## Finished Question Record/完成题目记录
 
