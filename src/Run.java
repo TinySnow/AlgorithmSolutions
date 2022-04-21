@@ -105,7 +105,7 @@ public class Run {
 //                        " U! e? w? z; t! C! z? U, p' p! r. x; U! Z; u! j; T! X! N' F? n! P' t, X. s; q'",
 //                        new String[]{"m","i","s","w","y","d","q","l","a","p","n","t","u","b","o","e","f","g","c","x"}));
 
-        System.out.println(Arrays.toString(Question821.shortestToChar("abbb", 'b')));
+//        System.out.println(Arrays.toString(Question821.shortestToChar("abbb", 'b')));
 
 
     }
