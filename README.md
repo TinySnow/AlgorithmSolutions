@@ -15,6 +15,7 @@ Some Questions have not solved, cause of its difficulty and time limit(usually o
 
 - 310(dp)
 - 386
+- 396
 - 432
 - 440
 - 540
@@ -35,7 +36,7 @@ Some Questions have not solved, cause of its difficulty and time limit(usually o
 - 1994(dp)
 - 2044
 
-Totally 21 questions./共计 21 题。
+Totally 22 questions./共计 22 题。
 
 ## Finished Question Record/完成题目记录
 
