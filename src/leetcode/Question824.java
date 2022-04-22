@@ -1,6 +1,5 @@
 package leetcode;
 
-import java.util.Collections;
 import java.util.HashSet;
 
 public class Question824 {
