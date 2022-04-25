@@ -107,6 +107,10 @@ public class Run {
 
 //        System.out.println(Arrays.toString(Question821.shortestToChar("abbb", 'b')));
 
-        System.out.println(Question396.maxRotateFunction(new int[]{4, 3, 2, 6}));
+//        System.out.println(Question396.maxRotateFunction(new int[]{4, 3, 2, 6}));
+
+        System.out.println(Question868.binaryGap(13));
+
+
     }
 }
