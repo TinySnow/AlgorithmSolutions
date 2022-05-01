@@ -1,6 +1,7 @@
 import leetcode.*;
 import necessary.ListNode;
 import necessary.Node;
+import necessary.TreeNode;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -109,7 +110,29 @@ public class Run {
 
 //        System.out.println(Question396.maxRotateFunction(new int[]{4, 3, 2, 6}));
 
-        System.out.println(Question868.binaryGap(13));
+//        System.out.println(Question868.binaryGap(13));
+
+//        TreeNode root1 = new TreeNode(5,
+//                new TreeNode(6,
+//                        new TreeNode(4),
+//                        new TreeNode(8)),
+//                new TreeNode(9,
+//                        new TreeNode(1,
+//                                new TreeNode(2),
+//                                new TreeNode(7)
+//                        ),
+//                        new TreeNode(3)
+//                )
+//        );
+//        TreeNode root2 = new TreeNode(1,
+//                new TreeNode(25,
+//                        new TreeNode(9),
+//                        new TreeNode(10)),
+//                new TreeNode(5)
+//        );
+//
+//
+//        Question1305.getAllElements(root1, root2);
 
 
     }

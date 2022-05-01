@@ -75,6 +75,7 @@ Totally 23 questions./共计 23 题。
 - 969
 - 1020
 - 1189
+- 1305
 - 1342
 - 1380
 - 1447
@@ -87,4 +88,4 @@ Totally 23 questions./共计 23 题。
 - 2043
 - 2104
 
-Totally 40 questions./共计 40 题。
+Totally 41 questions./共计 41 题。
