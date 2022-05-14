@@ -26,6 +26,5 @@ public class Question_01_05 {
             }
         }
         return cnt <= 1;
-
     }
 }
