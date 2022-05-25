@@ -1,7 +1,5 @@
 package leetcode.school;
 
-import java.util.Arrays;
-
 public class BackpackQuestion {
     /**
      * 0-1背包问题
