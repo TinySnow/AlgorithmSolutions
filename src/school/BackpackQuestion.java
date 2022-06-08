@@ -1,4 +1,4 @@
-package leetcode.school;
+package school;
 
 public class BackpackQuestion {
     /**

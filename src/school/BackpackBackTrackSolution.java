@@ -1,4 +1,4 @@
-package leetcode.school;
+package school;
 
 /*
  * 刘廷利的代码

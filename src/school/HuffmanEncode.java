@@ -1,4 +1,4 @@
-package leetcode.school;
+package school;
 
 import java.util.Collections;
 import java.util.LinkedList;
