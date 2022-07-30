@@ -18,21 +18,18 @@ public class Question1184 {
         // 这里采取设置变量的方法
         int low = Math.min(start, destination);
         int high = Math.max(start, destination);
-        int firstHalf = 0;
+        int circuity = 0;
         int directly = 0;
-        int lastHalf = 0;
         // 将整个数组拆成三部分，前半，中间出发地和目标地直达的部分，后半
         // 前半和后半加起来就是打环的另一条路距离
         for (int i = 0; i < distance.length; i++) {
-            if (i < low) {
-                firstHalf += distance[i];
-            } else if (i >= low && i < high) {
+            if (i >= low && i < high) {
                 directly += distance[i];
             } else {
-                lastHalf += distance[i];
+                circuity += distance[i];
             }
         }
         // 返回最小值
-        return Math.min(directly, firstHalf + lastHalf);
+        return Math.min(directly, circuity);
     }
 }
