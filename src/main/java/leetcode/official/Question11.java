@@ -2,7 +2,10 @@ package leetcode.official;
 
 public class Question11 {
     /**
-     * 双指针，每次移动最差的那一边
+     * 最终选择：方法 2
+     *
+     * 1. 暴力枚举每个桶，测量体积，选取最大的容器
+     * 2. 选取开始和末尾，往里贪心收敛，宽度一定会更窄，但高度可能会更高，所以面积可能会更大
      * @param height 高度数组
      * @return
      */
