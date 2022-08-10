@@ -4,7 +4,7 @@ This repository purposes to record my algorithm travel./这个仓库用来记录
 ## Attention/注意
 
 #### English:
-Some Questions have not solved, cause of its difficulty and time limit(usually one question per day).
+Some Questions have not solved, because of its difficulty and time limit(usually one question per day).
 
 #### Chinese：
 某些问题没有解决，原因在于其难度和每日一题的时间限制。
@@ -57,11 +57,15 @@ Totally 23 questions./共计 23 题。
 - 26
 - 34
 - 53(dp)
+- 66
 - 70
+- 88
 - 141
 - 142
+- 155
 - 189
 - 206
+- 239
 - 258
 - 283
 - 357
@@ -114,4 +118,4 @@ Totally 23 questions./共计 23 题。
 - 01.05
 - 04.06
 
-Totally 67 questions./共计 67 题。
+Totally 70 questions./共计 70 题。
