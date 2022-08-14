@@ -3,7 +3,9 @@ package leetcode.official;
 import necessary.Node;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
+import java.util.Stack;
 
 /*
 // Definition for a Node.
@@ -25,20 +27,57 @@ class Node {
 */
 public class Question590 {
     public List<Integer> postorder(Node root) {
-        ArrayList<Integer> result = new ArrayList<>();
         if (root == null) {
             return new ArrayList<>();
         }
-        method(root, result);
+        ArrayList<Integer> result = new ArrayList<>();
+        recursion(root, result);
         return result;
     }
 
-    private void method(Node node, ArrayList<Integer> result) {
+    private void recursion(Node node, ArrayList<Integer> result) {
         if (node.children != null) {
             for (Node child : node.children) {
-                method(child,result);
+                recursion(child, result);
             }
         }
         result.add(node.val);
+    }
+
+    List<Integer> list = new ArrayList<>();
+
+    /**
+     * 另一个递归版本，和上面 list 搭配使用
+     *
+     * @param root
+     * @return
+     */
+    public List<Integer> postorderAnotherRecursionVersion(Node root) {
+        if (root == null) return list;
+        for (Node node : root.children) postorderAnotherRecursionVersion(node);
+        list.add(root.val);
+        return list;
+    }
+
+    /**
+     * 迭代版本
+     *
+     * @param root
+     * @return
+     */
+    public List<Integer> postorderIterative(Node root) {
+        List<Integer> list = new ArrayList<>();
+        if (root == null) return list;
+
+        Stack<Node> stack = new Stack<>();
+        stack.add(root);
+
+        while (!stack.isEmpty()) {
+            root = stack.pop();
+            list.add(root.val);
+            stack.addAll(root.children);
+        }
+        Collections.reverse(list);
+        return list;
     }
 }
