@@ -1,12 +1,15 @@
 # AlgorithmSolutions/算法解决方案
+
 This repository purposes to record my algorithm travel./这个仓库用来记录微雪的算法之旅。
 
 ## Attention/注意
 
 #### English:
+
 Some Questions have not solved, because of its difficulty and time limit(usually one question per day).
 
 #### Chinese：
+
 某些问题没有解决，原因在于其难度和每日一题的时间限制。
 
 ## Unfinished Question Record/未完成题目记录
@@ -80,6 +83,7 @@ Totally 23 questions./共计 23 题。
 - 155
 - 169
 - 189
+- 200
 - 206
 - 226
 - 236
@@ -92,6 +96,7 @@ Totally 23 questions./共计 23 题。
 - 393
 - 429
 - 504
+- 515
 - 537
 - 553
 - 589
@@ -137,4 +142,4 @@ Totally 23 questions./共计 23 题。
 - 01.05
 - 04.06
 
-Totally 90 questions./共计 90 题。
+Totally 92 questions./共计 92 题。
