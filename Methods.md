@@ -17,3 +17,13 @@
     - 抛弃人肉递归
     - 找出最近重复子问题
     - 数学归纳法思维
+9. 二分
+  - 二分代码模板
+    - low, high 定义，注意是赋予初始值的大小
+    - while(low <= high) 注意此处是否需要 =
+    - middle 定义
+    - middle 与目标相等
+    - middle 大于目标 high = middle - 1
+    - middle 小于目标 low = middle + 1
+    - 循环结束，收尾工作 return
+10. 

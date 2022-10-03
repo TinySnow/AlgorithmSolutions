@@ -69,6 +69,7 @@ Totally 23 questions./共计 23 题。
 - 53(dp)
 - 55
 - 66
+- 69
 - 70
 - 77
 - 78
@@ -95,6 +96,7 @@ Totally 23 questions./共计 23 题。
 - 258
 - 283
 - 357
+- 367
 - 380
 - 393
 - 429
@@ -147,4 +149,4 @@ Totally 23 questions./共计 23 题。
 - 01.05
 - 04.06
 
-Totally 97 questions./共计 97 题。
+Totally 99 questions./共计 99 题。
