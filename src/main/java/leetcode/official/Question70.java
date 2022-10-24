@@ -10,12 +10,8 @@ public class Question70 {
      */
     public static int climbStairs(int n) {
         // 边界判断
-        if (n < 0 || n > 45) {
-            return -1;
-        }
-        if (n < 4) {
-            return n;
-        }
+        if (n < 0 || n > 45)  return -1;
+        if (n < 4)  return n;
         int total = 0;
         for (int i = 3, first = 1, second = 2; i <= n; i++) {
             total = first + second;
