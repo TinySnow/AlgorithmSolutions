@@ -25,7 +25,7 @@ public class Question127 {
         // 同时移除单词表里的 begin（如果有的话）
         set.remove(beginWord);
 
-        // BFS 模板，队列和 visited，后者为了放置走回去，然后 Stackoverflow
+        // BFS 模板，队列和 visited，后者为了防止走回去，然后 Stackoverflow
         Deque<String> dq = new ArrayDeque<>();
         HashSet<String> visited = new HashSet<>();
         visited.add(beginWord);
